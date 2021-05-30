@@ -1,4 +1,6 @@
-#Instructions#
+# Checkout-app
+
+**Instructions**##**
 
 1. Install node_modules by typing 'npm install' in the terminal.
 
