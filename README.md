@@ -1,6 +1,6 @@
-# Checkout-app
+# Ad select and checkout app
 
-**Instructions**##**
+**Instructions**
 
 1. Install node_modules by typing 'npm install' in the terminal.
 
